@@ -1,0 +1,9 @@
+{
+  "name": "js-dzhj1o",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/js-dzhj1o",
+  "dependencies": {
+    "sass": "1.10.0"
+  },
+  "version": "1.0.0"
+}
